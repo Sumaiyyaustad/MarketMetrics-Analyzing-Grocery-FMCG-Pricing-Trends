@@ -25,6 +25,7 @@ MarketMetrics/
 │   │── 📄 bigbasket_products_cleaned.csv  
 │── 📂 notebooks/                          # SQL and Python-based explorations  
 │   │── 📄 BigBasket Products01.ipynb      # Visual exploration & EDA  
+│   │── 📄 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends.sql  # SQL queries for insights  
 
 ## 🧹 Data Cleaning  
 Performed using Pandas and SQL:  
