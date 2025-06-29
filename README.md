@@ -20,7 +20,6 @@ MarketMetrics is an end-to-end data analytics project aimed at uncovering pricin
 ## 📁 Project Structure  
 MarketMetrics/  
 │── 📄 README.md                           # Project documentation  
-│── 📄 MarketMetrics_Project_Report.docx  # Final Report with queries and insights  
 │── 📂 data/                               # Dataset  
 │   │── 📄 bigbasket_products_cleaned.csv  
 │── 📂 notebooks/                          # SQL and Python-based explorations  
