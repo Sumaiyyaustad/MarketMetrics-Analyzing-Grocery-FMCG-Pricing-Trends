@@ -1,15 +1,16 @@
-
 # 📊 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends
+
+**Tags:** `#DataScience #SQL #Python #Pandas #MySQL #DataAnalysis #EDA #Visualization #BigData #RetailAnalytics #FMCG #GroceryAnalysis #PricingTrends #WindowFunctions #BusinessInsights #MarketAnalysis #KaggleDataset #DataCleaning #DataVisualization #ProjectBasedLearning`
 
 ## 📝 Overview  
 MarketMetrics is an end-to-end data analytics project aimed at uncovering pricing patterns, brand distribution, and discount dynamics in the online grocery and FMCG sector using SQL and Python. The analysis was performed on a real-world dataset from BigBasket with over 28,000 products. The goal was to derive actionable business insights through queries, statistical exploration, and ranking using window functions.
 
 ## 👥 Team Members  
-**Ustad sumaiyya** – Project Lead, SQL Analyst, Report Design  
+**Ustad Sumaiyya** – Project Lead, SQL Analyst, Report Design  
 **Deepak Kumar** – Data Cleaning, Analysis Support, Visualization Assistance  
 
 ## 🧾 Dataset  
-**Source: Kaggle – BigBasket Entire Product List**
+**Source: Kaggle – BigBasket Entire Product List**  
 📎 https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints
 
 ## Key Features:  
@@ -46,31 +47,30 @@ Key Insights Extracted:
 • Running average prices and price percentiles for smarter tiering  
 • Product counts by brand to determine market dominance  
 
-## 🧠Insights (from Jupyter Notebook Analysis)
+## 🧠 Insights (from Jupyter Notebook Analysis)
 
 ✔️ **Category Pricing Behavior**  
-- Categories like **packaged food** and **personal care** show a wide range in pricing.
-- After capping outliers using IQR methods, price comparisons became more stable.
-  
+- Categories like **packaged food** and **personal care** show a wide range in pricing.  
+- After capping outliers using IQR methods, price comparisons became more stable.  
+
 ✔️ **Brand Strategy Observations**  
-- Budget brands have **narrow and consistent pricing**, while premium brands show **wider price spreads**.
-- Even top-performing brands have **outlier products**, often premium or import items.
+- Budget brands have **narrow and consistent pricing**, while premium brands show **wider price spreads**.  
+- Even top-performing brands have **outlier products**, often premium or import items.  
 
 ✔️ **Brand Dominance by Category**  
-- Specific brands are category leaders, dominating segments like **beverages** or **hygiene**.
+- Specific brands are category leaders, dominating segments like **beverages** or **hygiene**.  
 - Useful for prioritizing **category-level promotions** and **supply chain focus**.
 
 ## 📌 Key Features  
-✔️ SQL and python - based insights and trend detection  
+✔️ SQL and Python-based insights and trend detection  
 ✔️ Use of window functions (`ROW_NUMBER()`, `AVG() OVER`, `PERCENT_RANK()`)  
 ✔️ Detailed project report with team insights and recommendations  
 ✔️ Real-world retail dataset covering 28K products  
 ✔️ Tiered strategy recommendation using product price segments  
 
-
 ## 💬 Acknowledgments  
 Thanks to the Kaggle community and the BigBasket dataset contributor.  
-Special appreciation to the **Girish sir**  for support.
+Special appreciation to **Girish sir** for support.
 
 ## 📜 License  
 This project is open-source and available for modification and educational use.
@@ -78,7 +78,4 @@ This project is open-source and available for modification and educational use.
 ## 📩 Contributions & Feedback  
 Feel free to fork this repo, raise issues, or contribute enhancements!  
 Happy Coding! 🚀
-
-
-
 
