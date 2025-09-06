@@ -1,8 +1,6 @@
 # 📊 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends
 
-**Tags:** `#DataScience #SQL #Python #Pandas #MySQL #DataAnalysis #EDA #Visualization #BigData #RetailAnalytics #FMCG #GroceryAnalysis #PricingTrends #WindowFunctions #BusinessInsights #MarketAnalysis #KaggleDataset #DataCleaning #DataVisualization #ProjectBasedLearning`
-
-## 📝 Overview  
+ ## 📝 Overview  
 MarketMetrics is an end-to-end data analytics project aimed at uncovering pricing patterns, brand distribution, and discount dynamics in the online grocery and FMCG sector using SQL and Python. The analysis was performed on a real-world dataset from BigBasket with over 28,000 products. The goal was to derive actionable business insights through queries, statistical exploration, and ranking using window functions.
 
 ## 👥 Team Members  
