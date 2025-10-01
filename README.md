@@ -18,12 +18,12 @@ MarketMetrics is an end-to-end data analytics project aimed at uncovering pricin
 
 ## 📁 Project Structure  
 MarketMetrics/  
-│── 📄 README.md                           # Project documentation  
-│── 📂 data/                               # Dataset  
+│── 📄 README.md                           
+│── 📂 data                             
 │   │── 📄 bigbasket_products_cleaned.csv  
-│── 📂 notebooks/                          # SQL and Python-based explorations  
-│   │── 📄 BigBasket Products01.ipynb      # Visual exploration & EDA  
-│   │── 📄 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends.sql  # SQL queries for insights  
+│── 📂 notebooks                           
+│   │── 📄 BigBasket Products01.ipynb      
+│   │── 📄 MarketMetrics – Analyzing Grocery & FMCG Pricing Trends.sql   
 
 ## 🧹 Data Cleaning  
 Performed using Pandas and SQL:  
